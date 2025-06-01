@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/c5498444-fc9a-48b9-a337-e5c731684bf0)
+
 # Synacor Challenge
 
 The [Synacor Challenge](https://web.archive.org/web/20230206005149/https://challenge.synacor.com/) was an online programming puzzle created by [Eric Wastl](https://x.com/ericwastl), the mind behind [Advent of Code](https://adventofcode.com).
