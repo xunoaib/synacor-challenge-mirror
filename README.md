@@ -6,6 +6,11 @@ The [Synacor Challenge](https://web.archive.org/web/20230206005149/https://chall
 
 This repository contains an unmodified archive of my original challenge files now that the official website has been retired. It serves as a reference for those wanting to explore the challenge on their own.
 
+## Files
+
+- [arch-spec](arch-spec) - Architecture specification
+- [challenge.bin](challenge.bin) - Challenge binary
+
 ## Codes
 
 As you progress through the challenge, you will encounter eight unique codes. Below are their MD5 hashes for verification. To check a code, use an MD5 hashing tool. For example:
